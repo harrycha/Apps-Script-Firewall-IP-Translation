@@ -26,6 +26,7 @@ Shared Drive
 │   │    │   fireflow113536.sh
 │   │    │   ...
 ```
+*Note **sh** stands for **GoogleSheet**
 
 How the end result turns out:
 
