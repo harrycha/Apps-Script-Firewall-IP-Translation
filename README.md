@@ -38,7 +38,11 @@ How the end result turns out:
 
 # How to use:
 
-Past the JavaScript code on the sheet you'd like to create the database on. Change any variables to fit your top level folder. Create a trigger for an automated execution and enjoy!
+Paste the JavaScript code on the sheet you'd like to create the database. 
+
+Change any variables to fit your top level folder. 
+
+Create a trigger for an automated execution and enjoy!
 
 
 
