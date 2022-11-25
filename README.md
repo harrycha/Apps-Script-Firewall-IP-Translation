@@ -1,6 +1,6 @@
 ## Apps-Script-Firewall-IP-Translation
 
-The objective of this script was to scrape data from many Googlesheets files and push it on to a singular sheet and make a database. Initially built for the SIOPS team at TELUS to get corresponding Firwall names for IP addresses to implement policies on.
+The objective of this script was to scrape data from many Googlesheets files and push it on to a singular sheet and make a database. Initially built for the SIOPS team at TELUS to get corresponding Firewall names for IP addresses to implement policies on.
 
 An example of how the data in each sheet is formatted starting at column C in the sheet:
 
